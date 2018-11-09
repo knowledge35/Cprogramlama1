@@ -8,10 +8,11 @@ int main() {
 	printf("a:%d\n,b:%d\n,c:%d",a,b,c);
 	printf("bir sayi girinşiz");
 	scanf("%d",&d);
-	printf("\ngirilen sayi:%d",d);
+	printf("\" a \b\t s \ngirilen sayi:%d",d);
 	float pi = 3.14;
 	printf("\n%8.4f",pi);
-
+	/*interpretive*/
+	//compiler
 	_getch();
 	
 	return 0;
