@@ -15,6 +15,13 @@ int main() {
 	
 	printf("a:%d\n,b:%d\n,c:%d",a,b,c);
 	printf("bir sayi girinşiz");
+	{
+
+		// nice
+		int a = 88;
+		printf("%d", a);
+
+	}
 	scanf("%d",&d);
 	printf("\" a \b\t s \ngirilen sayi:%d",d);
 	float pi = 3.14;
@@ -22,14 +29,14 @@ int main() {
 	printf("\n%8.4f",pi);
 	/*interpretive*/
 	//compiler
-	
 	{
 
-		// interesting
-		int a =7;
+		// very nice
+		int a = 99;
 		printf("%d", a);
 
 	}
+	
 	_getch();
 	
 	return 0;
