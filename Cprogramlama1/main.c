@@ -9,6 +9,8 @@ int main() {
 	printf("bir sayi girinşiz");
 	scanf("%d",&d);
 	printf("\ngirilen sayi:%d",d);
+	float pi = 3.14;
+	printf("\n%8.4f",pi);
 
 	_getch();
 	
